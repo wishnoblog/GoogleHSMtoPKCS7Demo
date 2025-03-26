@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleHSMtoPKCS7Demo", "GoogleHSMtoPKCS7Demo\GoogleHSMtoPKCS7Demo.csproj", "{237F4B38-811A-4C26-90FF-08824B5AB6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237F4B38-811A-4C26-90FF-08824B5AB6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237F4B38-811A-4C26-90FF-08824B5AB6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237F4B38-811A-4C26-90FF-08824B5AB6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237F4B38-811A-4C26-90FF-08824B5AB6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74BA3D8-CFA6-47A2-99A9-2254E0417036}
+	EndGlobalSection
+EndGlobal
