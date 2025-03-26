@@ -7,10 +7,14 @@ Google HSM 產生PKCS簽章 DEMO By WiSH
 然後會拿到一個json檔案，裡面包含了您的服務帳戶的私鑰，這個私鑰是用來與Google HSM溝通的。
 這個DEMO會示範如何使用這個私鑰來與Google HSM溝通，並且產生PKCS#1簽章，然後轉為PKCS#7簽章。
 
-
+## 環境：
+- C#
+- .Net 9.0
+- Windows 11 專業版
+- Visual Studio 2022 社群版
 ## 相關說明
 
-- - [我的網誌](https://blog.wishstudio.net/archives/2007)
+- [我的網誌](https://blog.wishstudio.net/archives/2007)
 - [Google HSM 官方文件](https://cloud.google.com/kms/docs/hsm)
 - [Google HSM API文件](https://cloud.google.com/kms/docs/reference/rest)
 - [Google HSM API Client Libraries](https://cloud.google.com/kms/docs/reference/libraries)
